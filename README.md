@@ -8,3 +8,5 @@ The case will be added as soon as I finish it and am satisfied with the result.
 
 The defines.h for SlimeVR firmware are included and are configured for the BMI270 but can be easily changed to accomodate the LSM and other BMI chips.
 The WIFI settings will need to be hard coded into platformio.ini as the SlimeVR server does not want to pass these settings over automatically.
+
+![ThingTrackNano pic](https://github.com/JuliThing/ThingTrackNano/assets/63885704/58f98e0d-feac-4169-8683-6a659f19fde7)
